@@ -1,0 +1,22 @@
+# C++ build files
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+# IDE files
+.vscode/
+.idea/
+# macOS system files
+.DS_Store
+# Windows system files
+Thumbs.db
+# Linux system files
+*~
